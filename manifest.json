@@ -70,6 +70,28 @@
       ]
     },
     {
+      "id": "filmekseni",
+      "name": "!FilmEkseni",
+      "logo": "https://www.google.com/s2/favicons?domain=filmekseni.vip\u0026sz=%size%",
+      "version": "0.1.0",
+      "filename": "providers/filmekseni.js",
+      "supportedTypes": ["movie", "tv"],
+      "contentLanguage": ["tr"],
+      "supportsStreams": true,
+      "catalogs": [
+        { "id": "movies", "name": "Son Eklenen Filmler", "type": "movie", "supportsPagination": true },
+        { "id": "series", "name": "Son Eklenen Diziler", "type": "series", "supportsPagination": true },
+        { "id": "action", "name": "Aksiyon", "type": "movie", "supportsPagination": true },
+        { "id": "animation", "name": "Animasyon", "type": "movie", "supportsPagination": true },
+        { "id": "science-fiction", "name": "Bilim Kurgu", "type": "movie", "supportsPagination": true },
+        { "id": "comedy", "name": "Komedi", "type": "movie", "supportsPagination": true },
+        { "id": "thriller", "name": "Gerilim", "type": "movie", "supportsPagination": true },
+        { "id": "horror", "name": "Korku", "type": "movie", "supportsPagination": true },
+        { "id": "top-movies", "name": "Yüksek Puanlı Filmler", "type": "movie", "supportsPagination": true },
+        { "id": "top-series", "name": "Yüksek Puanlı Diziler", "type": "series", "supportsPagination": true }
+      ]
+    },
+    {
       "id": "diziyou",
       "name": "!DiziYou",
       "logo": "https://www.google.com/s2/favicons?domain=diziyou.one\u0026sz=%size%",
