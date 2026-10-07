@@ -18,7 +18,9 @@
       "contentLanguage": [
         "tr"
       ],
-       "supportsStreams": true,
+      "supportsStreams": true,
+      "supportsSearch": true,
+      "supportsComments": true,
       "catalogs": [
         { "id": "new-movies", "name": "Yeni Eklenen Filmler", "type": "movie", "supportsPagination": true },
         { "id": "new-series", "name": "Yeni Eklenen Diziler", "type": "series", "supportsPagination": true },
@@ -52,6 +54,7 @@
         "tr"
       ],
       "supportsStreams": true,
+      "supportsSearch": true,
       "catalogs": [
         { "id": "latest-movies", "name": "Son Filmler", "type": "movie", "supportsPagination": true },
         { "id": "must-watch", "name": "Ölmeden İzle", "type": "movie", "supportsPagination": true },
@@ -78,6 +81,7 @@
       "supportedTypes": ["movie", "tv"],
       "contentLanguage": ["tr"],
       "supportsStreams": true,
+      "supportsSearch": true,
       "catalogs": [
         { "id": "movies", "name": "Son Eklenen Filmler", "type": "movie", "supportsPagination": true },
         { "id": "series", "name": "Son Eklenen Diziler", "type": "series", "supportsPagination": true },
@@ -104,6 +108,7 @@
         "tr"
       ],
        "supportsStreams": true,
+      "supportsSearch": true, 
       "catalogs": [
         { "id": "family", "name": "Aile", "type": "series", "supportsPagination": true },
         { "id": "action", "name": "Aksiyon", "type": "series", "supportsPagination": true },
@@ -137,6 +142,7 @@
         "tr"
       ],
       "supportsStreams": true,
+      "supportsSearch": true,
       "catalogs": [
         { "id": "latest-movies", "name": "Yeni Eklenen Filmler", "type": "movie", "supportsPagination": true },
         { "id": "latest-series", "name": "Yeni Eklenen Diziler", "type": "series", "supportsPagination": true },
