@@ -96,6 +96,28 @@
       ]
     },
     {
+      "id": "dizibal",
+      "name": "!DiziBal",
+      "logo": "https://www.google.com/s2/favicons?domain=dizibal.org\u0026sz=%size%",
+      "version": "0.1.0",
+      "filename": "providers/dizibal.js",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "contentLanguage": [
+        "tr"
+      ],
+      "supportsStreams": true,
+      "supportsSearch": true,
+      "catalogs": [
+        { "id": "latest-movies", "name": "Yeni Eklenen Filmler", "type": "movie", "supportsPagination": true },
+        { "id": "latest-series", "name": "Yeni Eklenen Diziler", "type": "series", "supportsPagination": true },
+        { "id": "action-movies", "name": "Aksiyon Filmleri", "type": "movie", "supportsPagination": true },
+        { "id": "action-series", "name": "Aksiyon Dizileri", "type": "series", "supportsPagination": true }
+      ]
+    },
+    {
       "id": "diziyou",
       "name": "!DiziYou",
       "logo": "https://www.google.com/s2/favicons?domain=diziyou.one\u0026sz=%size%",
