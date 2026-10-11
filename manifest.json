@@ -177,6 +177,32 @@
         { "id": "animation-movies", "name": "Animasyon Filmleri", "type": "movie", "supportsPagination": true },
         { "id": "war-politics-series", "name": "Savaş ve Politika Dizileri", "type": "series", "supportsPagination": true }
       ]
+    },
+    {
+      "id": "rarefilm",
+      "name": "!RareFilm",
+      "logo": "https://www.google.com/s2/favicons?domain=rarefilmm.com\u0026sz=%size%",
+      "version": "0.1.0",
+      "filename": "providers/rarefilm.js",
+      "supportedTypes": ["movie"],
+      "contentLanguage": ["en"],
+      "supportsStreams": true,
+      "supportsSearch": true,
+      "catalogs": [
+        { "id": "latest", "name": "Son Eklenenler", "type": "movie", "supportsPagination": true },
+        { "id": "action", "name": "Aksiyon", "type": "movie", "supportsPagination": true },
+        { "id": "adventure", "name": "Macera", "type": "movie", "supportsPagination": true },
+        { "id": "animation", "name": "Animasyon", "type": "movie", "supportsPagination": true },
+        { "id": "camp", "name": "Kamp", "type": "movie", "supportsPagination": true },
+        { "id": "comedy", "name": "Komedi", "type": "movie", "supportsPagination": true },
+        { "id": "documentary", "name": "Belgesel", "type": "movie", "supportsPagination": true },
+        { "id": "drama", "name": "Dram", "type": "movie", "supportsPagination": true },
+        { "id": "erotic", "name": "Erotik", "type": "movie", "supportsPagination": true },
+        { "id": "family", "name": "Aile", "type": "movie", "supportsPagination": true },
+        { "id": "fantasy", "name": "Fantastik", "type": "movie", "supportsPagination": true },
+        { "id": "mystery", "name": "Gizem", "type": "movie", "supportsPagination": true },
+        { "id": "theatre", "name": "Tiyatro", "type": "movie", "supportsPagination": true }
+      ]
     }
   ]
 }
