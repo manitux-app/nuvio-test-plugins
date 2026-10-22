@@ -1,6 +1,7 @@
 {
   "id": "app.manitux.nuvio.plugins",
   "name": "Manitux Nuvio Plugins",
+  "description": "NuvioTR için katalog, arama ve yorum desteği sağlayan eklentiler.",
   "logo": "https://raw.githubusercontent.com/manitux-app/nuvi-test-plugins/main/images/icon.png",
   "version": "0.1.4",
   "author": "manitux",
@@ -8,7 +9,7 @@
     {
       "id": "hdfilmcehennemi",
       "name": "!HDFilmCehennemi",
-      "logo": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com\u0026sz=%size%",
+      "logo": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=128",
       "version": "0.1.0",
       "filename": "providers/hdfilmcehennemi.js",
       "supportedTypes": [
@@ -43,7 +44,7 @@
     {
       "id": "filmmakinesi",
       "name": "!FilmMakinesi",
-      "logo": "https://www.google.com/s2/favicons?domain=filmmakinesi.to\u0026sz=%size%",
+      "logo": "https://www.google.com/s2/favicons?domain=filmmakinesi.to&sz=128",
       "version": "0.1.0",
       "filename": "providers/filmmakinesi.js",
       "supportedTypes": [
@@ -75,7 +76,7 @@
     {
       "id": "filmekseni",
       "name": "!FilmEkseni",
-      "logo": "https://www.google.com/s2/favicons?domain=filmekseni.vip\u0026sz=%size%",
+      "logo": "https://www.google.com/s2/favicons?domain=filmekseni.vip&sz=128",
       "version": "0.1.0",
       "filename": "providers/filmekseni.js",
       "supportedTypes": ["movie", "tv"],
@@ -98,7 +99,7 @@
     {
       "id": "dizibal",
       "name": "!DiziBal",
-      "logo": "https://www.google.com/s2/favicons?domain=dizibal.org\u0026sz=%size%",
+      "logo": "https://www.google.com/s2/favicons?domain=dizibal.org&sz=128",
       "version": "0.1.0",
       "filename": "providers/dizibal.js",
       "supportedTypes": [
@@ -120,7 +121,7 @@
     {
       "id": "diziyou",
       "name": "!DiziYou",
-      "logo": "https://www.google.com/s2/favicons?domain=diziyou.one\u0026sz=%size%",
+      "logo": "https://www.google.com/s2/favicons?domain=diziyou.one&sz=128",
       "version": "0.1.0",
       "filename": "providers/diziyou.js",
       "supportedTypes": [
@@ -153,7 +154,7 @@
     {
       "id": "dexterpw",
       "name": "!DexterPW",
-      "logo": "https://www.google.com/s2/favicons?domain=dexter.pw\u0026sz=%size%",
+      "logo": "https://www.google.com/s2/favicons?domain=dexter.pw&sz=128",
       "version": "0.1.0",
       "filename": "providers/dexterpw.js",
       "supportedTypes": ["movie", "tv"],
@@ -194,7 +195,7 @@
      {
       "id": "dizibox",
       "name": "!DiziBox",
-      "logo": "https://www.google.com/s2/favicons?domain=diziboxizle.com\u0026sz=%size%",
+      "logo": "https://www.google.com/s2/favicons?domain=diziboxizle.com&sz=128",
       "version": "0.1.0",
       "filename": "providers/dizibox.js",
       "supportedTypes": ["tv"],
@@ -226,7 +227,7 @@
     {
       "id": "rarefilm",
       "name": "!RareFilm",
-      "logo": "https://www.google.com/s2/favicons?domain=rarefilmm.com\u0026sz=%size%",
+      "logo": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=128",
       "version": "0.1.0",
       "filename": "providers/rarefilm.js",
       "supportedTypes": ["movie"],
