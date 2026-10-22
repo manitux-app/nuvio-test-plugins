@@ -1,7 +1,7 @@
 {
   "id": "app.manitux.nuvio.plugins",
   "name": "Manitux Nuvio Plugins",
-  "description": "NuvioTR için katalog, arama ve yorum desteği sağlayan eklentiler.",
+  "description": "NuvioTR için katalog, yayın, arama ve yorum desteği sağlayan eklentiler.",
   "logo": "https://raw.githubusercontent.com/manitux-app/nuvi-test-plugins/main/images/icon.png",
   "version": "0.1.4",
   "author": "manitux",
